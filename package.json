@@ -1,10 +1,5 @@
 {
-	"name": "vscode-smoketest-express",
-	"scripts": {
-		"Document": "Document 'Source/**/*.ts'",
-		"prepublishOnly": "Build 'Source/**/*.ts'"
-	},
-	"devDependencies": {
-		"@playform/build": "0.0.7"
-	}
+  "name": "vscode-smoketest-express",
+  "version": "0.0.0",
+  "private": true
 }

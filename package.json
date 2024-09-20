@@ -1,3 +1,5 @@
 {
-	"name": "vscode-smoketest-express"
+  "name": "vscode-smoketest-express",
+  "version": "0.0.0",
+  "private": true
 }

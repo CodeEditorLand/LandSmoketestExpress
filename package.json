@@ -1,3 +1,5 @@
 {
-	"name": "vscode-smoketest-express"
+	"dependencies": {},
+	"devDependencies": {},
+	"name": "@codeeditorland/smoketest-express"
 }
